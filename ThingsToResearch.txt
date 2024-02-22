@@ -1,1 +1,4 @@
 1) Difference between .loc and .iloc in pandas
+2) See Feature Scaling Document
+3) RandomForest
+4) Ridge Regression
